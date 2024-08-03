@@ -13,4 +13,4 @@ Expose more Global settings in the App Settings to the user
 
 # Requirements
 There are no requirements for EnderSX2. But, if you want to transfer your original Aether/NetherSX2 save data you will need a copy of the [Shizuku 13.5.4 apk.](https://github.com/RikkaApps/Shizuku/releases/download/v13.5.4/shizuku-v13.5.4.r1049.0e53409-release.apk)
-I dont provide a Shizuku activation tutorial, please search on youtube or in the official [Shizuku website](shizuku.rikka.app).
+I dont provide a Shizuku activation tutorial, please search on youtube or in the official [Shizuku website](shizuku.rikka.app)
