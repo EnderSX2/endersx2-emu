@@ -28,7 +28,7 @@ There are still NetherSX2 and AetherSX2 credits in the FAQ for main credits, but
 - alextarzx
 ## NetherSX2
 - Anon
-- EZOntheEyes
+- EZOnTheEyes
 - Trixarian
 ## AetherSX2
 - Tahlreth / Stenzek
