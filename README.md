@@ -25,6 +25,7 @@ You can get your own copy of EnderSX2 right here.
 There are still NetherSX2 and AetherSX2 credits in the FAQ for main credits, but heres a full list.
 ## EnderSX2
 - alextarzx
+- il_gabryyiiy
 ## NetherSX2
 - Anon
 - EZOnTheEyes
